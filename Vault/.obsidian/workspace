@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "8d3a6134a4a71510",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a3bd11df49f814",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sites/Generic.kamaldhari.com.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad5468dfd3a96ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df0d454df740ca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d26af7cb63a14f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "25d8e14d23ab6710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ebd7638bf1cc8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c158bf36d47cb4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "c31d5ba36201d1a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace9da66e01c7aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6ba30388aa3f3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sites/Generic.kamaldhari.com.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "60a3bd11df49f814",
+  "lastOpenFiles": [
+    "Daily Notes/31-10-22.md",
+    "Untitled 2.md",
+    "websites/Carmax.wencase.me.md",
+    "websites/project-management.webcase.me.md",
+    "Pratiksha/Pratiksha's Access.md",
+    "Daily Notes/03-10-22.md",
+    "Sites/lobovo.riseonicsolution.com.md",
+    "Commands.md",
+    "Documentations/Infrastructure/Doccine Infrastructure/Introduction.md",
+    "Sites/suomma.com.md"
+  ]
+}

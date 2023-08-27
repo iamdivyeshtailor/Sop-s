@@ -1,0 +1,6 @@
+- So first go to CI/CD pipelines and so see. if pipeline is Deployes or Failed
+	- If Failed then retry is to deploy it 
+	- and if not failed
+	- Then go to gitlab.webcase.me.  
+	- Under Deployment section click on enviroments. and from here you can re-deploy the enviroment.
+	- ![[Pasted image 20221104093610.png]]

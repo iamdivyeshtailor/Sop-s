@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "8d3a6134a4a71510",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c7647917611a994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2743318c0adb40d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Notes/Tim HardenBerg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0847b2238fd195fa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d326b0789a025b7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e316d66bcf1d81f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e6cf7e02cd1059b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6107493543a384b1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Project Notes/Tim HardenBerg.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2743318c0adb40d2",
+  "lastOpenFiles": [
+    "Notes/Pratiksha's Roles and Responsibility.md",
+    "Daily Notes/27-10-22.md",
+    "Docs/Windows NodeJS/Fixing The Node-gpy error in windows.md",
+    "Wordpress Automated Updates.md",
+    "Grand.md",
+    "Phone Notes/OCT 23 22.md",
+    "Pratiksha/Pratiksha's Access.md",
+    "Daily Notes/03-10-22.md",
+    "Sites/lobovo.riseonicsolution.com.md",
+    "Commands.md"
+  ]
+}

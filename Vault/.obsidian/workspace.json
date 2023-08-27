@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "8d3a6134a4a71510",
+    "type": "split",
+    "children": [
+      {
+        "id": "74dd53c76f1b2749",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd148466dbc6da65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doccine Pre Production Checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad5468dfd3a96ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df0d454df740ca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d26af7cb63a14f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25d8e14d23ab6710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ebd7638bf1cc8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c158bf36d47cb4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "c31d5ba36201d1a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace9da66e01c7aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6ba30388aa3f3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Doccine Pre Production Checklist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "dd148466dbc6da65",
+  "lastOpenFiles": [
+    "New PipeLine.md",
+    "AMC Research Doc.md",
+    "AMC Contracts.md",
+    "websites/project-management.webcase.me.md",
+    "websites/Carmax.wencase.me.md",
+    "Sites/suomma.com.md",
+    "Sites/staging.simiandtimi.com.md",
+    "Sites/staging.omdena.com.md",
+    "Sites/project-management.webcase.me.md",
+    "Sites/lobovo.riseonicsolution.com.md"
+  ]
+}
