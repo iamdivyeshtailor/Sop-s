@@ -1,10 +1,10 @@
-- Install Docker
+Install Docker
 ```bash
 sudo apt update && apt -y install docker.io
 ```
 
-- Install Minikube
-```bash 
+Install Minikube
+``` bash 
 curl -Lo minikube https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdPVkhya2VKbXF6aVpLRWNiN2pMRlpZODZpUXxBQ3Jtc0tteVRFZmVCT3JFeER0bTg2aHNLY0V2NkxuNzVJQU1xZC1BdXg3QVhQM2pwb3RmeUR1VWpfelRHaFhfLWc0cTY1TXVkT1RxVDhpWkRfYlZweHV0cmpMV05VX3ZvQlU1MkdNUUdSYkdXVmhYa1RfSHhKSQ&q=https%3A%2F%2Fstorage.googleapis.com%2Fminikube%2Freleases%2Flatest%2Fminikube-linux-amd64&v=J2sUlm2cwQk  
 ```
 
